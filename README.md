@@ -37,9 +37,11 @@ BS Information Technology student at Laguna State Polytechnic University with a 
 - Python Essentials 1
 - Data Analytics Essentials
 - IT Customer Support Basics
-- AI Learning
-- Introduction to Cybersecurity
 - Networking Basics
+- Introduction to Cybersecurity
+- Introduction to Modern AI
+- Fundamentals of Machine Learning and Artificial Intelligence
+- AI Learning
 - AWS Cloud Quest: Cloud Practitioner
 - AWS Cloud Quest: Generative AI
 - AWS Cloud Practitioner Essentials
