@@ -1,12 +1,5 @@
 # Sydney Coleen P. Borgonia
 
-<p align="center">
-  <b>BS Information Technology Student</b><br>
-  <i>Laguna State Polytechnic University</i>
-</p>
-
----
-
 ## About Me
 
 I am a **Bachelor of Science in Information Technology** student at **Laguna State Polytechnic University** with a growing specialization in **Frontend Development, UI/UX Design, and Data Analytics**.
@@ -27,13 +20,13 @@ I am passionate about designing modern, responsive, and user-centered digital ex
 
 ## Technical Skills
 
-### Programming & Web Technologies
+#### Programming & Web Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
 </p>
 
-### Design & Prototyping
+#### Design & Prototyping
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -41,14 +34,14 @@ I am passionate about designing modern, responsive, and user-centered digital ex
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-### Data & Productivity Tools
+#### Data & Productivity Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### Version Control
+#### Version Control
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github" />
@@ -97,33 +90,33 @@ I am actively learning and experimenting with the following technologies:
 
 ## Academic Projects
 
-### Coffee Grind
+#### Coffee Grind
 
-**Point-of-Sale (POS) System** for order processing and sales management.
+Point-of-Sale (POS) System for order processing and sales management.
 
-### Celestial
+#### Celestial
 
-**E-Commerce System** with product catalog and transaction management features.
+E-Commerce System with product catalog and transaction management features.
 
-### Baby Bloom
+#### Baby Bloom
 
-**E-Commerce Application** designed for mothers and baby-related products.
+E-Commerce Application designed for mothers and baby-related products.
 
-### Creddito
+#### Creddito
 
-**Loan Management Application** for handling borrower records, payments, and loan monitoring.
+Loan Management Application for handling borrower records, payments, and loan monitoring.
 
-### Happy Net Café
+#### Happy Net Café
 
-**Web-Based Internet and Esports Management System** for customer sessions, reservations, and café operations.
+Web-Based Internet and Esports Management System for customer sessions, reservations, and café operations.
 
-### Brgy. Calumpang Health Monitoring System
+#### Brgy. Calumpang Health Monitoring System
 
-Community-based **health monitoring and record management system** for barangay healthcare services.
+Community-based health monitoring and record management system for barangay healthcare services.
 
-### ARALTech *(Thesis Project)*
+#### ARALTech (Thesis Project)
 
-**A Progressive Web Application for Structured Literacy Intervention and Performance Monitoring under the ARAL Program in the District of Pagsanjan**
+A Progressive Web Application for Structured Literacy Intervention and Performance Monitoring under the ARAL Program in the District of Pagsanjan
 
 **Key Features:**
 
@@ -145,5 +138,4 @@ Community-based **health monitoring and record management system** for barangay 
 
 <p align="center">
   <b>Frontend Development • UI/UX Design • Data Analytics</b><br>
-  <i>Building modern, user-friendly, and data-driven digital solutions.</i>
 </p>
