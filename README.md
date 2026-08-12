@@ -23,28 +23,35 @@ I am passionate about designing modern, responsive, and user-centered digital ex
 #### Programming & Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="48" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="48" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="MySQL" />
 </p>
 
 #### Design & Prototyping
 
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=figma" /> 
-  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" /> 
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="48" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="48" alt="Adobe XD" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva" />
 </p>
 
-Data & Productivity Tools
+#### Data & Productivity Tools
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+</p>
 
 #### Version Control
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" />
 </p>
+
 
 ---
 
