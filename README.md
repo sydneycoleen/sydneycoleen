@@ -28,18 +28,17 @@ I am passionate about designing modern, responsive, and user-centered digital ex
 
 #### Design & Prototyping
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="48" alt="Adobe XD" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva" />
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=figma" /> 
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" /> 
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
 </p>
 
-#### Data & Productivity Tools
+Data & Productivity Tools
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
-</p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
 
 #### Version Control
 
