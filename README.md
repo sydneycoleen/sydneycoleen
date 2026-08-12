@@ -82,31 +82,31 @@ I am actively learning and experimenting with the following technologies:
 
 ## Academic Projects
 
-### Coffee Grind
+#### Coffee Grind
 
 * Point-of-Sale (POS) System for order processing and sales management.
 
-### Celestial
+#### Celestial
 
 * E-Commerce System with product catalog and transaction management features.
 
-### Baby Bloom
+#### Baby Bloom
 
 * E-Commerce Application designed for mothers and baby-related products.
 
-### Creddito
+#### Creddito
 
 * Loan Management Application for handling borrower records, payments, and loan monitoring.
 
-### Happy Net Café
+#### Happy Net Café
 
 * Web-Based Internet and Esports Management System for customer sessions, reservations, and café operations.
 
-### Brgy. Calumpang Health Monitoring System
+#### Brgy. Calumpang Health Monitoring System
 
 * Community-based health monitoring and record management system for barangay healthcare services.
 
-### ARALTech (Thesis Project)
+#### ARALTech (Thesis Project)
 
 A Progressive Web Application for Structured Literacy Intervention and Performance Monitoring under the ARAL Program in the District of Pagsanjan
 
