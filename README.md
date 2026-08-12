@@ -4,17 +4,17 @@
 
 I am a **Bachelor of Science in Information Technology** student at **Laguna State Polytechnic University** with a growing specialization in **Frontend Development, UI/UX Design, and Data Analytics**.
 
-I am passionate about designing modern, responsive, and user-centered digital experiences** that combine functionality, accessibility, and visual appeal. With hands-on experience in web development, interface prototyping, and data visualization, I continuously seek opportunities to enhance my technical expertise and contribute to impactful technology-driven solutions.
+I am passionate about designing modern, responsive, and user-centered digital experiences that combine functionality, accessibility, and visual appeal. With hands-on experience in web development, interface prototyping, and data visualization, I continuously seek opportunities to enhance my technical expertise and contribute to impactful technology-driven solutions.
 
 ---
 
 ## Career Objectives
 
-* Develop expertise in **Frontend Development** and **UI/UX Design**
-* Build **interactive, responsive, and accessible web applications**
-* Strengthen my knowledge in **Data Analytics** and **Data Visualization**
-* Gain proficiency in **modern development frameworks, cloud technologies, and industry-standard tools**
-* Create a **professional portfolio** that demonstrates real-world projects and practical problem-solving skills
+* Develop expertise in Frontend Development and UI/UX Design
+* Build interactive, responsive, and accessible web applications
+* Strengthen my knowledge in Data Analytics and Data Visualization
+* Gain proficiency in modern development frameworks, cloud technologies, and industry-standard tools
+* Create a professional portfolio that demonstrates real-world projects and practical problem-solving skills
 
 ---
 
@@ -29,16 +29,16 @@ I am passionate about designing modern, responsive, and user-centered digital ex
 #### Design & Prototyping
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="48" alt="Adobe XD" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva" />
 </p>
 
 #### Data & Productivity Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
 </p>
 
 #### Version Control
