@@ -49,13 +49,6 @@ I am passionate about designing modern, responsive, and user-centered digital ex
 
 ---
 
-## Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,figma,react,nodejs,ts,tailwind,docker,linux,aws" />
-</p>
-
----
 
 ## Currently Exploring
 
